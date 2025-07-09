@@ -11,12 +11,6 @@ O site simula a experiência de visualizar as principais informações do iPhone
 - Alternador de cores do iPhone com imagens dinâmicas
 - Estilização moderna e responsiva
 
-## 🚀 Demonstração
-
-Veja o projeto em funcionamento (se hospedado):
-
-🔗 [Link para o GitHub Pages ou outra hospedagem (opcional)](#)
-
 ## 🛠️ Tecnologias Utilizadas
 
 - HTML5
